@@ -8,7 +8,7 @@
   "server": {
     "ip": "sigmaboialphawolf.aternos.me",
     "port": 53850,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
